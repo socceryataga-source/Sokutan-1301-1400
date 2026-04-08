@@ -4,101 +4,101 @@ const quizData = [
     "word": "import",
     "meaning": "輸入する",
     "choices": [
-      "輸出する",
-      "運ぶ",
-      "販売する",
-      "輸入する"
+      "思い出す",
+      "輸入する",
+      "浮かぶ",
+      "対抗する"
     ],
-    "sentence": "A large part of our food is imported from Europe.",
-    "translation": "私たちの食料の多くはヨーロッパから輸入されている。"
+    "sentence": "Japan imports a lot of food from other countries.",
+    "translation": "日本は多くの食料を他国から輸入している。"
   },
   {
     "no": 1302,
     "word": "export",
     "meaning": "輸出する",
     "choices": [
+      "和らげる",
+      "暗示する",
       "輸出する",
-      "配達する",
-      "輸入する",
-      "生産する"
+      "観察する"
     ],
-    "sentence": "This company exports its products to many countries.",
-    "translation": "この会社は製品を多くの国へ輸出している。"
+    "sentence": "This company exports cars to many countries.",
+    "translation": "この会社は多くの国に車を輸出している。"
   },
   {
     "no": 1303,
     "word": "vehicle",
     "meaning": "乗り物",
     "choices": [
-      "列車",
-      "機械",
+      "乗り物",
       "自動車",
-      "乗り物"
+      "容易さ",
+      "審査員団"
     ],
-    "sentence": "The accident involved more than ten vehicles on the highway.",
-    "translation": "その事故では高速道路で10台以上の乗り物が関係した。"
+    "sentence": "Bicycles are a useful vehicle in this small town.",
+    "translation": "この小さな町では、自転車は便利な乗り物だ。"
   },
   {
     "no": 1304,
     "word": "automobile",
     "meaning": "自動車",
     "choices": [
-      "電車",
-      "飛行機",
       "自動車",
-      "乗り物"
+      "粒子",
+      "優雅さ",
+      "資料"
     ],
-    "sentence": "My grandfather still drives the same automobile he bought years ago.",
-    "translation": "祖父は何年も前に買った同じ自動車を今でも運転している。"
+    "sentence": "The factory makes automobiles for the global market.",
+    "translation": "その工場は世界市場向けの自動車を製造している。"
   },
   {
     "no": 1305,
     "word": "aboard",
     "meaning": "乗って",
     "choices": [
+      "の中で",
+      "の下に",
       "乗って",
-      "外へ",
-      "近くに",
-      "向こうに"
+      "に向かって"
     ],
-    "sentence": "All the passengers are now aboard the train.",
-    "translation": "乗客は全員、今はその列車に乗っている。"
+    "sentence": "We went aboard the ship just before sunset.",
+    "translation": "私たちは日没の直前にその船に乗り込んだ。"
   },
   {
     "no": 1306,
     "word": "tiny",
-    "meaning": "とても小さい",
+    "meaning": "小さな",
     "choices": [
-      "軽い",
-      "細い",
-      "古い",
-      "とても小さい"
+      "必死の",
+      "小さな",
+      "本格的な",
+      "洗練された"
     ],
-    "sentence": "The baby held a tiny toy in her hand.",
-    "translation": "その赤ちゃんは手にとても小さいおもちゃを持っていた。"
+    "sentence": "A tiny insect landed on my notebook.",
+    "translation": "とても小さな虫が私のノートにとまった。"
   },
   {
     "no": 1307,
     "word": "minimize",
     "meaning": "最小限にする",
     "choices": [
-      "制限する",
-      "増やす",
       "最小限にする",
-      "減らす"
+      "改善する",
+      "預ける",
+      "ひく"
     ],
-    "sentence": "We need to minimize waste in the school cafeteria.",
-    "translation": "学校の食堂で出るごみを最小限にする必要がある。"
+    "sentence": "We should minimize food waste in the school cafeteria.",
+    "translation": "学校の食堂での食品ロスを最小限にするべきだ。"
   },
   {
     "no": 1308,
     "word": "particle",
     "meaning": "粒子",
     "choices": [
-      "結晶",
       "粒子",
-      "分子",
-      "細胞"
+      "涙",
+      "儀式",
+      "分子"
     ],
     "sentence": "Dust particles were floating in the sunlight.",
     "translation": "ほこりの粒子が日光の中に浮かんでいた。"
@@ -108,104 +108,104 @@ const quizData = [
     "word": "molecule",
     "meaning": "分子",
     "choices": [
-      "原子",
       "分子",
-      "粒子",
-      "物質"
+      "警官",
+      "優雅さ",
+      "野心"
     ],
-    "sentence": "Water is made of simple molecules.",
-    "translation": "水は単純な分子でできている。"
+    "sentence": "A water molecule is made of hydrogen and oxygen.",
+    "translation": "水の分子は水素と酸素でできている。"
   },
   {
     "no": 1310,
     "word": "revive",
-    "meaning": "蘇生させる",
+    "meaning": "復活させる",
     "choices": [
-      "回復させる",
-      "蘇生させる",
-      "保護する",
-      "修理する"
+      "組み合わせる",
+      "復活させる",
+      "思い出す",
+      "反乱を起こす"
     ],
-    "sentence": "Doctors worked quickly to revive the patient.",
-    "translation": "医師たちは患者を蘇生させるために素早く動いた。"
+    "sentence": "The town is trying to revive its old shopping street.",
+    "translation": "その町は古い商店街を復活させようとしている。"
   },
   {
     "no": 1311,
     "word": "amusement",
-    "meaning": "面白さ",
+    "meaning": "楽しみ",
     "choices": [
-      "面白さ",
-      "驚き",
-      "娯楽",
-      "冗談"
+      "罰",
+      "情熱",
+      "特徴",
+      "楽しみ"
     ],
-    "sentence": "The movie provided a lot of amusement for the children.",
-    "translation": "その映画は子どもたちに大きな面白さを与えた。"
+    "sentence": "The children watched the clown for their amusement.",
+    "translation": "子どもたちは楽しみのためにそのピエロを見ていた。"
   },
   {
     "no": 1312,
     "word": "refresh",
     "meaning": "元気づける",
     "choices": [
-      "元気づける",
-      "落ち着かせる",
-      "安心させる",
-      "励ます"
+      "最小限にする",
+      "～のせいにする",
+      "預ける",
+      "元気づける"
     ],
-    "sentence": "A short walk outside refreshed me after class.",
-    "translation": "授業の後、外を少し歩くと気分が元気づけられた。"
+    "sentence": "A short walk in the park refreshed me after work.",
+    "translation": "公園での短い散歩が仕事のあとで私を元気づけてくれた。"
   },
   {
     "no": 1313,
     "word": "district",
-    "meaning": "地域",
+    "meaning": "地区",
     "choices": [
-      "地方",
-      "区域",
-      "中心",
-      "地域"
+      "地区",
+      "優雅さ",
+      "収入",
+      "楽しみ"
     ],
-    "sentence": "This district is famous for its old shops.",
-    "translation": "この地域は古い店で有名だ。"
+    "sentence": "This district is famous for its old temples.",
+    "translation": "この地区は古い寺で有名だ。"
   },
   {
     "no": 1314,
     "word": "wire",
-    "meaning": "針金",
+    "meaning": "接続する",
     "choices": [
-      "針金",
-      "板",
-      "電線",
-      "ひも"
+      "接続する",
+      "管理する",
+      "輸出する",
+      "支配する"
     ],
-    "sentence": "He bent a piece of wire into a circle.",
-    "translation": "彼は一本の針金を曲げて円にした。"
+    "sentence": "Can you wire this speaker to the computer?",
+    "translation": "このスピーカーをコンピューターに接続できますか。"
   },
   {
     "no": 1315,
     "word": "float",
-    "meaning": "浮く",
+    "meaning": "浮かぶ",
     "choices": [
-      "浮く",
-      "漂う",
-      "落ちる",
-      "沈む"
+      "反乱を起こす",
+      "輸出する",
+      "浮かぶ",
+      "元気づける"
     ],
-    "sentence": "Colorful leaves floated on the pond.",
-    "translation": "色とりどりの葉が池に浮いていた。"
+    "sentence": "Colorful balloons floated above the crowd.",
+    "translation": "色とりどりの風船が人々の上に浮かんでいた。"
   },
   {
     "no": 1316,
     "word": "administer",
     "meaning": "管理する",
     "choices": [
-      "組織する",
+      "対抗する",
       "管理する",
-      "監督する",
-      "運営する"
+      "改善する",
+      "預ける"
     ],
-    "sentence": "The city administers the public library system.",
-    "translation": "市は公共図書館の制度を管理している。"
+    "sentence": "The city administers several public sports centers.",
+    "translation": "市はいくつかの公共スポーツ施設を管理している。"
   },
   {
     "no": 1317,
@@ -213,454 +213,454 @@ const quizData = [
     "meaning": "監督する",
     "choices": [
       "監督する",
-      "補助する",
-      "観察する",
-      "指導する"
+      "接続する",
+      "教育する",
+      "反対する"
     ],
-    "sentence": "A teacher will supervise the science experiment.",
-    "translation": "先生がその理科実験を監督する。"
+    "sentence": "Two teachers supervised the students on the trip.",
+    "translation": "二人の教師がその旅行で生徒たちを監督した。"
   },
   {
     "no": 1318,
     "word": "panel",
-    "meaning": "専門家集団",
+    "meaning": "審査員団",
     "choices": [
-      "観客",
-      "記者団",
-      "専門家集団",
-      "委員会"
+      "審査員団",
+      "方法",
+      "時代",
+      "涙"
     ],
-    "sentence": "A panel of doctors discussed the new treatment.",
-    "translation": "医師の専門家集団がその新しい治療法について話し合った。"
+    "sentence": "The winner was chosen by a panel of judges.",
+    "translation": "優勝者は審査員団によって選ばれた。"
   },
   {
     "no": 1319,
     "word": "oppose",
     "meaning": "反対する",
     "choices": [
-      "拒否する",
-      "支持する",
-      "批判する",
-      "反対する"
+      "輸入する",
+      "教育する",
+      "反対する",
+      "訴える"
     ],
     "sentence": "Many residents oppose the plan to cut down the trees.",
-    "translation": "多くの住民が木を切る計画に反対している。"
+    "translation": "多くの住民がその木を切る計画に反対している。"
   },
   {
     "no": 1320,
     "word": "counter",
-    "meaning": "カウンター",
+    "meaning": "対抗する",
     "choices": [
-      "棚",
-      "カウンター",
-      "売り場",
-      "机"
+      "対抗する",
+      "輸出する",
+      "魅了する",
+      "管理する"
     ],
-    "sentence": "Please pay at the front counter.",
-    "translation": "前のカウンターで支払いをしてください。"
+    "sentence": "The government introduced new measures to counter inflation.",
+    "translation": "政府はインフレに対抗するための新しい対策を導入した。"
   },
   {
     "no": 1321,
     "word": "reverse",
     "meaning": "逆にする",
     "choices": [
-      "戻す",
-      "止める",
-      "変える",
-      "逆にする"
+      "反対する",
+      "支配する",
+      "逆にする",
+      "教育する"
     ],
-    "sentence": "Press this button to reverse the direction.",
-    "translation": "方向を逆にするにはこのボタンを押してください。"
+    "sentence": "Press this button to reverse the order of the list.",
+    "translation": "一覧の順序を逆にするにはこのボタンを押してください。"
   },
   {
     "no": 1322,
     "word": "rebel",
     "meaning": "反逆者",
     "choices": [
-      "指導者",
-      "兵士",
+      "視界",
+      "歓迎会",
       "反逆者",
-      "抗議者"
+      "方法"
     ],
     "sentence": "The story is about a young rebel against the king.",
-    "translation": "その物語は王に反抗する若い反逆者についての話だ。"
+    "translation": "その物語は王に反抗する若い反逆者についてのものだ。"
   },
   {
     "no": 1323,
     "word": "revolt",
-    "meaning": "反逆",
+    "meaning": "反乱を起こす",
     "choices": [
-      "反逆",
-      "戦争",
-      "革命",
-      "抗議"
+      "反乱を起こす",
+      "超える",
+      "監督する",
+      "支配する"
     ],
-    "sentence": "The heavy taxes led to a revolt.",
-    "translation": "重い税が反逆を引き起こした。"
+    "sentence": "The people revolted against the unfair ruler.",
+    "translation": "人々は不公平な支配者に対して反乱を起こした。"
   },
   {
     "no": 1324,
     "word": "tear",
     "meaning": "涙",
     "choices": [
-      "血",
-      "叫び",
-      "汗",
-      "涙"
+      "涙",
+      "余剰",
+      "地区",
+      "主流"
     ],
-    "sentence": "A tear rolled down her cheek.",
-    "translation": "一筋の涙が彼女の頬を伝った。"
+    "sentence": "A tear ran down her cheek during the speech.",
+    "translation": "スピーチの間、彼女の頬を一筋の涙が流れた。"
   },
   {
     "no": 1325,
     "word": "recall",
     "meaning": "思い出す",
     "choices": [
-      "説明する",
-      "忘れる",
+      "監督する",
+      "輸入する",
       "思い出す",
-      "想像する"
+      "魅了する"
     ],
     "sentence": "I can clearly recall my first day at high school.",
-    "translation": "高校での最初の日を私ははっきり思い出せる。"
+    "translation": "私は高校初日のことをはっきり思い出せる。"
   },
   {
     "no": 1326,
     "word": "sight",
-    "meaning": "見ること",
+    "meaning": "視界",
     "choices": [
-      "視力",
-      "見ること",
-      "景色",
-      "視線"
+      "視界",
+      "儀式",
+      "人事部",
+      "時代"
     ],
-    "sentence": "The sight of the ocean made us smile.",
-    "translation": "海を見ることが私たちを笑顔にした。"
+    "sentence": "The mountain came into sight after the rain stopped.",
+    "translation": "雨がやむとその山が視界に入った。"
   },
   {
     "no": 1327,
     "word": "remind",
     "meaning": "思い出させる",
     "choices": [
-      "知らせる",
-      "教える",
-      "気づかせる",
-      "思い出させる"
+      "思い出させる",
+      "支配する",
+      "訴える",
+      "和らげる"
     ],
     "sentence": "This song reminds me of my childhood.",
-    "translation": "この歌は私に子どものころを思い出させる。"
+    "translation": "この歌は私に子ども時代を思い出させる。"
   },
   {
     "no": 1328,
     "word": "unlikely",
-    "meaning": "しそうにない",
+    "meaning": "ありそうにない",
     "choices": [
-      "確実な",
-      "しそうにない",
-      "かもしれない",
-      "珍しい"
+      "ありそうにない",
+      "傑出した",
+      "重要でない",
+      "信頼できる"
     ],
-    "sentence": "It is unlikely that he will miss the meeting.",
-    "translation": "彼がその会議を欠席することはしそうにない。"
+    "sentence": "It is unlikely that the train will arrive on time in this weather.",
+    "translation": "この天気では列車が時間どおりに着くことはありそうにない。"
   },
   {
     "no": 1329,
     "word": "briefly",
-    "meaning": "少しの間",
+    "meaning": "簡潔に",
     "choices": [
-      "突然",
-      "少しの間",
-      "短く",
-      "静かに"
+      "簡潔に",
+      "ひそかに",
+      "うっかり",
+      "主に"
     ],
-    "sentence": "We talked briefly before the bell rang.",
-    "translation": "ベルが鳴る前に私たちは少しの間話した。"
+    "sentence": "Please briefly explain your idea to the class.",
+    "translation": "あなたの考えをクラスに簡潔に説明してください。"
   },
   {
     "no": 1330,
     "word": "temporary",
     "meaning": "一時的な",
     "choices": [
-      "永続的な",
-      "仮の",
+      "小さな",
       "一時的な",
-      "短期の"
+      "魅力的な",
+      "本格的な"
     ],
-    "sentence": "The road closure is only temporary.",
-    "translation": "その道路閉鎖は一時的なものにすぎない。"
+    "sentence": "We are living in a temporary apartment this month.",
+    "translation": "私たちは今月、一時的なアパートに住んでいる。"
   },
   {
     "no": 1331,
     "word": "countryside",
-    "meaning": "地方",
+    "meaning": "田舎",
     "choices": [
-      "農村",
-      "地方",
-      "都会",
-      "郊外"
+      "田舎",
+      "自動車",
+      "うわさ",
+      "植民地"
     ],
-    "sentence": "They moved from Tokyo to the countryside.",
-    "translation": "彼らは東京から地方へ引っ越した。"
+    "sentence": "My grandparents enjoy the quiet life in the countryside.",
+    "translation": "祖父母は田舎での静かな生活を楽しんでいる。"
   },
   {
     "no": 1332,
     "word": "landscape",
     "meaning": "風景",
     "choices": [
-      "眺め",
       "風景",
-      "地形",
-      "景色"
+      "探偵",
+      "裁判",
+      "主流"
     ],
-    "sentence": "We stopped to admire the mountain landscape.",
-    "translation": "私たちは山の風景を眺めるために立ち止まった。"
+    "sentence": "The snowy landscape looked beautiful in the morning light.",
+    "translation": "雪の風景は朝の光の中で美しく見えた。"
   },
   {
     "no": 1333,
     "word": "scene",
     "meaning": "光景",
     "choices": [
-      "様子",
-      "場面",
+      "方法",
+      "歓迎会",
       "光景",
-      "景色"
+      "収入"
     ],
-    "sentence": "The scene after the festival was very quiet.",
-    "translation": "祭りの後の光景はとても静かだった。"
+    "sentence": "The rescue scene was shown on TV all day.",
+    "translation": "その救助の光景は一日中テレビで流された。"
   },
   {
     "no": 1334,
     "word": "photograph",
     "meaning": "写真",
     "choices": [
-      "映像",
-      "絵",
+      "審査員団",
       "写真",
-      "画像"
+      "裁判",
+      "容易さ"
     ],
-    "sentence": "She showed me a photograph of her dog.",
-    "translation": "彼女は私に犬の写真を見せてくれた。"
+    "sentence": "She showed me a photograph of her family.",
+    "translation": "彼女は家族の写真を私に見せてくれた。"
   },
   {
     "no": 1335,
     "word": "genuine",
-    "meaning": "本物の",
+    "meaning": "心からの",
     "choices": [
-      "偽の",
-      "純粋な",
-      "本物の",
-      "正直な"
+      "心からの",
+      "洗練された",
+      "魅力的な",
+      "重要でない"
     ],
-    "sentence": "This watch is genuine, not a copy.",
-    "translation": "この時計はコピーではなく本物だ。"
+    "sentence": "He gave me a genuine smile when I entered the room.",
+    "translation": "私が部屋に入ると、彼は心からの笑顔を見せてくれた。"
   },
   {
     "no": 1336,
     "word": "authentic",
-    "meaning": "本物の",
+    "meaning": "本格的な",
     "choices": [
-      "信頼できる",
-      "古い",
-      "正確な",
-      "本物の"
+      "本格的な",
+      "進行中の",
+      "内面の",
+      "熱心な"
     ],
-    "sentence": "The restaurant serves authentic Italian food.",
-    "translation": "そのレストランでは本物のイタリア料理を出している。"
+    "sentence": "This restaurant serves authentic Indian curry.",
+    "translation": "このレストランは本格的なインドカレーを出す。"
   },
   {
     "no": 1337,
     "word": "fancy",
-    "meaning": "高価な",
+    "meaning": "したいと思う",
     "choices": [
-      "高級な",
-      "派手な",
-      "高価な",
-      "豪華な"
+      "～のせいにする",
+      "支配する",
+      "魅了する",
+      "したいと思う"
     ],
-    "sentence": "We had dinner at a fancy hotel restaurant.",
-    "translation": "私たちは高価なホテルのレストランで夕食を食べた。"
+    "sentence": "I fancy going for a walk after dinner.",
+    "translation": "夕食のあとで散歩に行きたい気分だ。"
   },
   {
     "no": 1338,
     "word": "sophisticated",
     "meaning": "洗練された",
     "choices": [
-      "現代的な",
+      "本格的な",
+      "気が進まない",
       "洗練された",
-      "上品な",
-      "高度な"
+      "熱心な"
     ],
-    "sentence": "Her writing style is simple but sophisticated.",
-    "translation": "彼女の文章のスタイルは簡潔だが洗練されている。"
+    "sentence": "She has a sophisticated style of dress.",
+    "translation": "彼女は洗練された服装のセンスをしている。"
   },
   {
     "no": 1339,
     "word": "era",
     "meaning": "時代",
     "choices": [
-      "歴史",
-      "年代",
-      "期間",
-      "時代"
+      "余剰",
+      "人物紹介",
+      "時代",
+      "歓迎会"
     ],
-    "sentence": "The internet changed the start of a new era.",
-    "translation": "インターネットは新しい時代の始まりを変えた。"
+    "sentence": "Smartphones changed daily life in the digital era.",
+    "translation": "スマートフォンはデジタル時代の日常生活を変えた。"
   },
   {
     "no": 1340,
     "word": "outstanding",
     "meaning": "傑出した",
     "choices": [
-      "特別な",
+      "すてきな",
       "傑出した",
-      "有名な",
-      "優秀な"
+      "内面の",
+      "本格的な"
     ],
-    "sentence": "She did an outstanding job on the presentation.",
-    "translation": "彼女はその発表で傑出した仕事をした。"
+    "sentence": "He did an outstanding job on the science project.",
+    "translation": "彼はその理科の課題で傑出した仕事をした。"
   },
   {
     "no": 1341,
     "word": "trait",
-    "meaning": "特色",
+    "meaning": "特徴",
     "choices": [
+      "視界",
       "特徴",
-      "性格",
-      "才能",
-      "特色"
+      "分子",
+      "楽しみ"
     ],
-    "sentence": "Patience is an important trait in a teacher.",
-    "translation": "忍耐は教師にとって大切な特色だ。"
+    "sentence": "Patience is an important trait for teachers.",
+    "translation": "忍耐強さは教師にとって重要な特徴だ。"
   },
   {
     "no": 1342,
     "word": "attribute",
-    "meaning": "特質",
+    "meaning": "～のせいにする",
     "choices": [
-      "要素",
-      "能力",
-      "性質",
-      "特質"
+      "輸入する",
+      "超える",
+      "和らげる",
+      "～のせいにする"
     ],
-    "sentence": "Kindness is one of her best attributes.",
-    "translation": "親切さは彼女の最も良い特質の一つだ。"
+    "sentence": "Some people attribute his success to luck.",
+    "translation": "彼の成功を運のせいにする人もいる。"
   },
   {
     "no": 1343,
     "word": "grant",
-    "meaning": "認める",
+    "meaning": "与える",
     "choices": [
-      "選ぶ",
-      "認める",
-      "与える",
-      "許可する"
+      "監督する",
+      "魅了する",
+      "管理する",
+      "与える"
     ],
-    "sentence": "The school granted her request for a leave of absence.",
-    "translation": "学校は彼女の休学願いを認めた。"
+    "sentence": "The school granted her a special scholarship.",
+    "translation": "その学校は彼女に特別奨学金を与えた。"
   },
   {
     "no": 1344,
     "word": "mood",
     "meaning": "気分",
     "choices": [
-      "表情",
-      "雰囲気",
       "気分",
-      "感情"
+      "余剰",
+      "人物紹介",
+      "制度"
     ],
-    "sentence": "I am not in the mood for a serious talk tonight.",
-    "translation": "私は今夜、まじめな話をする気分ではない。"
+    "sentence": "I'm not in the mood for a long meeting today.",
+    "translation": "今日は長い会議をする気分ではない。"
   },
   {
     "no": 1345,
     "word": "profile",
-    "meaning": "プロフィール",
+    "meaning": "人物紹介",
     "choices": [
-      "輪郭",
-      "プロフィール",
-      "紹介文",
-      "略歴"
+      "地区",
+      "人物紹介",
+      "涙",
+      "収入"
     ],
-    "sentence": "Please update your profile before you apply.",
-    "translation": "応募前にプロフィールを更新してください。"
+    "sentence": "I read her profile before the interview.",
+    "translation": "私は面接の前に彼女の人物紹介を読んだ。"
   },
   {
     "no": 1346,
     "word": "dominate",
     "meaning": "支配する",
     "choices": [
-      "征服する",
-      "主導する",
-      "管理する",
-      "支配する"
+      "最小限にする",
+      "輸出する",
+      "支配する",
+      "思い出させる"
     ],
     "sentence": "One company dominates the local market.",
-    "translation": "一つの会社がその地域市場を支配している。"
+    "translation": "一つの会社が地元市場を支配している。"
   },
   {
     "no": 1347,
     "word": "colony",
     "meaning": "植民地",
     "choices": [
-      "開拓地",
-      "集落",
       "植民地",
-      "領土"
+      "時代",
+      "ぜいたく",
+      "主流"
     ],
-    "sentence": "The island was once a British colony.",
-    "translation": "その島はかつてイギリスの植民地だった。"
+    "sentence": "The island was once a colony of a European country.",
+    "translation": "その島はかつてヨーロッパの国の植民地だった。"
   },
   {
     "no": 1348,
     "word": "lovely",
-    "meaning": "素敵な",
+    "meaning": "すてきな",
     "choices": [
-      "親切な",
-      "美しい",
-      "素敵な",
-      "快適な"
+      "すてきな",
+      "一時的な",
+      "心からの",
+      "内面の"
     ],
-    "sentence": "What a lovely dress you are wearing today.",
-    "translation": "今日はなんて素敵なドレスを着ているの。"
+    "sentence": "What a lovely garden you have!",
+    "translation": "なんてすてきな庭なんでしょう。"
   },
   {
     "no": 1349,
     "word": "beauty",
-    "meaning": "美人",
+    "meaning": "美しさ",
     "choices": [
+      "人事部",
+      "楽しみ",
       "美しさ",
-      "美人",
-      "魅力",
-      "美女"
+      "制度"
     ],
-    "sentence": "Everyone agreed that she was a great beauty.",
-    "translation": "だれもが彼女が大変な美人だと認めていた。"
+    "sentence": "The beauty of the lake attracts many visitors.",
+    "translation": "その湖の美しさは多くの観光客を引きつける。"
   },
   {
     "no": 1350,
     "word": "grace",
     "meaning": "優雅さ",
     "choices": [
-      "気品",
-      "礼儀",
+      "反逆者",
       "優雅さ",
-      "美しさ"
+      "余剰",
+      "人物紹介"
     ],
-    "sentence": "The dancer moved with amazing grace.",
-    "translation": "そのダンサーは驚くほどの優雅さで動いた。"
+    "sentence": "The dancer moved with great grace.",
+    "translation": "そのダンサーは大きな優雅さをもって動いた。"
   },
   {
     "no": 1351,
     "word": "secretly",
     "meaning": "ひそかに",
     "choices": [
-      "公然と",
-      "内輪で",
-      "静かに",
-      "ひそかに"
+      "主に",
+      "うっかり",
+      "ひそかに",
+      "簡潔に"
     ],
-    "sentence": "He secretly planned a birthday party for his sister.",
-    "translation": "彼は妹のためにひそかに誕生日会を計画していた。"
+    "sentence": "They secretly planned a surprise party for her.",
+    "translation": "彼らは彼女のためのサプライズパーティーをひそかに計画した。"
   },
   {
     "no": 1352,
@@ -668,25 +668,25 @@ const quizData = [
     "meaning": "修正",
     "choices": [
       "修正",
-      "変更",
-      "改善",
-      "訂正"
+      "結果",
+      "うわさ",
+      "方法"
     ],
-    "sentence": "The plan needs a small modification before we use it.",
-    "translation": "その計画は使う前に少し修正が必要だ。"
+    "sentence": "This design needs only a small modification.",
+    "translation": "この設計には小さな修正だけが必要だ。"
   },
   {
     "no": 1353,
     "word": "scandal",
-    "meaning": "醜聞",
+    "meaning": "不祥事",
     "choices": [
-      "事件",
-      "噂",
-      "醜聞",
-      "不祥事"
+      "分子",
+      "不祥事",
+      "主流",
+      "歓迎会"
     ],
-    "sentence": "The politician resigned after the scandal.",
-    "translation": "その政治家は醜聞の後に辞任した。"
+    "sentence": "The minister lost his job after the scandal.",
+    "translation": "その大臣は不祥事のあと職を失った。"
   },
   {
     "no": 1354,
@@ -694,9 +694,9 @@ const quizData = [
     "meaning": "うわさ",
     "choices": [
       "うわさ",
-      "評判",
-      "情報",
-      "話題"
+      "光景",
+      "制度",
+      "田舎"
     ],
     "sentence": "There is a rumor that the store will close soon.",
     "translation": "その店がまもなく閉まるといううわさがある。"
@@ -706,312 +706,312 @@ const quizData = [
     "word": "imply",
     "meaning": "暗示する",
     "choices": [
-      "ほのめかす",
+      "反対する",
+      "管理する",
       "暗示する",
-      "示す",
-      "説明する"
+      "ひく"
     ],
-    "sentence": "His question implied that he knew the truth.",
-    "translation": "彼の質問は、彼が真実を知っていることを暗示していた。"
+    "sentence": "His answer implied that he knew the truth.",
+    "translation": "彼の答えは、彼が真実を知っていることを暗示していた。"
   },
   {
     "no": 1356,
     "word": "reliable",
     "meaning": "信頼できる",
     "choices": [
-      "安定した",
-      "誠実な",
       "信頼できる",
-      "正確な"
+      "すてきな",
+      "進行中の",
+      "ありそうにない"
     ],
-    "sentence": "She is reliable, so everyone asks her for help.",
-    "translation": "彼女は信頼できるので、みんなが彼女に助けを求める。"
+    "sentence": "She is a reliable person who always keeps promises.",
+    "translation": "彼女はいつも約束を守る信頼できる人だ。"
   },
   {
     "no": 1357,
     "word": "faith",
     "meaning": "信頼",
     "choices": [
-      "信用",
-      "信念",
-      "希望",
-      "信頼"
+      "気分",
+      "信頼",
+      "風景",
+      "容易さ"
     ],
-    "sentence": "I still have faith in your ability.",
-    "translation": "私は今でもあなたの力を信頼している。"
+    "sentence": "You need faith in yourself before the game.",
+    "translation": "試合の前には自分への信頼が必要だ。"
   },
   {
     "no": 1358,
     "word": "detective",
-    "meaning": "刑事",
+    "meaning": "探偵",
     "choices": [
-      "警官",
       "探偵",
-      "刑事",
-      "捜査官"
+      "余剰",
+      "風景",
+      "優雅さ"
     ],
-    "sentence": "The detective questioned the neighbors.",
-    "translation": "その刑事は近所の人たちに事情を聞いた。"
+    "sentence": "The detective solved the case in just two days.",
+    "translation": "その探偵はわずか二日で事件を解決した。"
   },
   {
     "no": 1359,
     "word": "arrest",
     "meaning": "逮捕する",
     "choices": [
-      "捜索する",
+      "和らげる",
+      "輸入する",
       "逮捕する",
-      "拘束する",
-      "罰する"
+      "思い出させる"
     ],
-    "sentence": "The police arrested the suspect that evening.",
-    "translation": "警察はその晩、容疑者を逮捕した。"
+    "sentence": "The police arrested the man near the station.",
+    "translation": "警察はその男を駅の近くで逮捕した。"
   },
   {
     "no": 1360,
     "word": "fascinate",
     "meaning": "魅了する",
     "choices": [
-      "感動させる",
       "魅了する",
-      "引きつける",
-      "驚かせる"
+      "組み合わせる",
+      "元気づける",
+      "輸出する"
     ],
-    "sentence": "Stories about space always fascinate me.",
-    "translation": "宇宙の話はいつも私を魅了する。"
+    "sentence": "Stories about space fascinate many children.",
+    "translation": "宇宙の話は多くの子どもを魅了する。"
   },
   {
     "no": 1361,
     "word": "fascinating",
     "meaning": "魅力的な",
     "choices": [
-      "珍しい",
-      "印象的な",
-      "興味深い",
-      "魅力的な"
+      "魅力的な",
+      "熱心な",
+      "進行中の",
+      "傑出した"
     ],
-    "sentence": "It was a fascinating lecture on ancient history.",
-    "translation": "それは古代史についての魅力的な講義だった。"
+    "sentence": "She gave a fascinating talk about ancient Egypt.",
+    "translation": "彼女は古代エジプトについて魅力的な話をした。"
   },
   {
     "no": 1362,
     "word": "educate",
     "meaning": "教育する",
     "choices": [
-      "教える",
       "教育する",
-      "育てる",
-      "訓練する"
+      "接続する",
+      "預ける",
+      "対抗する"
     ],
-    "sentence": "Schools educate children for the future.",
-    "translation": "学校は子どもたちを将来のために教育する。"
+    "sentence": "These books help parents educate young children at home.",
+    "translation": "これらの本は親が家庭で幼い子どもを教育するのに役立つ。"
   },
   {
     "no": 1363,
     "word": "spiritual",
-    "meaning": "精神の",
+    "meaning": "精神的な",
     "choices": [
-      "道徳的な",
-      "宗教的な",
-      "精神の",
-      "内面的な"
+      "重要でない",
+      "精神的な",
+      "本格的な",
+      "小さな"
     ],
-    "sentence": "Music can give people spiritual comfort.",
-    "translation": "音楽は人々に精神の安らぎを与えることがある。"
+    "sentence": "Music can give people spiritual support.",
+    "translation": "音楽は人々に精神的な支えを与えることがある。"
   },
   {
     "no": 1364,
     "word": "ritual",
     "meaning": "儀式",
     "choices": [
+      "人事部",
+      "時代",
       "儀式",
-      "典礼",
-      "行事",
-      "習慣"
+      "気分"
     ],
-    "sentence": "The wedding ritual lasted for an hour.",
-    "translation": "その結婚の儀式は1時間続いた。"
+    "sentence": "The wedding ritual lasted for nearly an hour.",
+    "translation": "その結婚式の儀式は一時間近く続いた。"
   },
   {
     "no": 1365,
     "word": "reception",
-    "meaning": "接待",
+    "meaning": "歓迎会",
     "choices": [
-      "応対",
+      "情熱",
       "歓迎会",
-      "接待",
-      "受付"
+      "地区",
+      "視界"
     ],
-    "sentence": "The hotel held a reception for its guests.",
-    "translation": "そのホテルは宿泊客のために接待の場を設けた。"
+    "sentence": "The company held a reception for the new manager.",
+    "translation": "その会社は新しい支配人のために歓迎会を開いた。"
   },
   {
     "no": 1366,
     "word": "trial",
-    "meaning": "試み",
+    "meaning": "裁判",
     "choices": [
-      "練習",
-      "試み",
       "裁判",
-      "実験"
+      "特徴",
+      "制度",
+      "収入"
     ],
-    "sentence": "Our first trial of the new app was successful.",
-    "translation": "新しいアプリの最初の試みは成功した。"
+    "sentence": "The trial continued for three weeks.",
+    "translation": "その裁判は三週間続いた。"
   },
   {
     "no": 1367,
     "word": "penalty",
-    "meaning": "罰金",
+    "meaning": "罰",
     "choices": [
-      "反則",
-      "処罰",
-      "代償",
-      "罰金"
+      "余剰",
+      "罰",
+      "光景",
+      "地区"
     ],
-    "sentence": "You have to pay a penalty for parking there.",
-    "translation": "そこに駐車すると罰金を払わなければならない。"
+    "sentence": "The penalty for parking here is very high.",
+    "translation": "ここに駐車した場合の罰はとても重い。"
   },
   {
     "no": 1368,
     "word": "punish",
     "meaning": "罰する",
     "choices": [
-      "叱る",
-      "注意する",
-      "責める",
+      "和らげる",
+      "改善する",
+      "組み合わせる",
       "罰する"
     ],
     "sentence": "Teachers should not punish students unfairly.",
-    "translation": "教師は生徒を不当に罰してはいけない。"
+    "translation": "教師は生徒を不当に罰するべきではない。"
   },
   {
     "no": 1369,
     "word": "enormous",
-    "meaning": "莫大な",
+    "meaning": "巨大な",
     "choices": [
-      "非常な",
-      "広大な",
+      "本格的な",
+      "進行中の",
       "巨大な",
-      "莫大な"
+      "小さな"
     ],
-    "sentence": "The project required an enormous amount of money.",
-    "translation": "その計画には莫大なお金が必要だった。"
+    "sentence": "An enormous whale appeared near the boat.",
+    "translation": "巨大なクジラが船の近くに現れた。"
   },
   {
     "no": 1370,
     "word": "sanctuary",
     "meaning": "保護区域",
     "choices": [
-      "避難所",
-      "聖地",
-      "自然区",
-      "保護区域"
+      "保護区域",
+      "人物紹介",
+      "方法",
+      "風景"
     ],
-    "sentence": "This wetland is a sanctuary for rare birds.",
-    "translation": "この湿地は希少な鳥の保護区域だ。"
+    "sentence": "The wetland is now a bird sanctuary.",
+    "translation": "その湿地は今では鳥の保護区域だ。"
   },
   {
     "no": 1371,
     "word": "resort",
     "meaning": "訴える",
     "choices": [
-      "避ける",
-      "挑む",
+      "教育する",
       "訴える",
-      "頼る"
+      "管理する",
+      "罰する"
     ],
-    "sentence": "He had to resort to borrowing money from his uncle.",
-    "translation": "彼は叔父からお金を借りるという手段に訴えざるを得なかった。"
+    "sentence": "We had to resort to online classes during the storm.",
+    "translation": "嵐の間、私たちはオンライン授業に頼らざるをえなかった。"
   },
   {
     "no": 1372,
     "word": "ease",
     "meaning": "容易さ",
     "choices": [
-      "単純さ",
-      "楽さ",
+      "視界",
       "容易さ",
-      "快適さ"
+      "審査員団",
+      "野心"
     ],
-    "sentence": "The software is popular because of its ease of use.",
-    "translation": "そのソフトは使う容易さのために人気がある。"
+    "sentence": "She passed the exam with ease.",
+    "translation": "彼女はその試験に難なく合格した。"
   },
   {
     "no": 1373,
     "word": "relieve",
-    "meaning": "取り除く",
+    "meaning": "和らげる",
     "choices": [
       "和らげる",
-      "取り除く",
-      "軽くする",
-      "なくす"
+      "改善する",
+      "接続する",
+      "輸出する"
     ],
-    "sentence": "This medicine can relieve a headache.",
-    "translation": "この薬は頭痛を取り除くことができる。"
+    "sentence": "This medicine will relieve your sore throat.",
+    "translation": "この薬はのどの痛みを和らげるだろう。"
   },
   {
     "no": 1374,
     "word": "desperate",
     "meaning": "必死の",
     "choices": [
-      "熱心な",
-      "絶望的な",
+      "ありそうにない",
+      "本格的な",
       "必死の",
-      "切実な"
+      "心からの"
     ],
-    "sentence": "He made a desperate effort to catch the last bus.",
-    "translation": "彼は終バスに乗るために必死の努力をした。"
+    "sentence": "He was desperate to find his lost wallet.",
+    "translation": "彼はなくした財布を見つけようと必死だった。"
   },
   {
     "no": 1375,
     "word": "incident",
     "meaning": "出来事",
     "choices": [
-      "事故",
+      "方法",
       "出来事",
-      "体験",
-      "事件"
+      "優雅さ",
+      "時代"
     ],
-    "sentence": "The teacher talked calmly about the incident.",
-    "translation": "先生はその出来事について落ち着いて話した。"
+    "sentence": "The police are investigating the incident.",
+    "translation": "警察はその出来事を調べている。"
   },
   {
     "no": 1376,
     "word": "accidentally",
-    "meaning": "偶然に",
+    "meaning": "うっかり",
     "choices": [
-      "不注意に",
-      "偶然に",
-      "突然",
-      "たまたま"
+      "簡潔に",
+      "うっかり",
+      "ひそかに",
+      "主に"
     ],
-    "sentence": "I accidentally deleted the file.",
-    "translation": "私はそのファイルを偶然に削除してしまった。"
+    "sentence": "I accidentally deleted the file from my computer.",
+    "translation": "私はうっかりコンピューターからそのファイルを削除してしまった。"
   },
   {
     "no": 1377,
     "word": "grind",
-    "meaning": "挽く",
+    "meaning": "ひく",
     "choices": [
-      "混ぜる",
-      "挽く",
-      "削る",
-      "砕く"
+      "魅了する",
+      "ひく",
+      "改善する",
+      "訴える"
     ],
-    "sentence": "We grind coffee beans every morning.",
-    "translation": "私たちは毎朝コーヒー豆を挽く。"
+    "sentence": "My grandfather still grinds coffee beans by hand.",
+    "translation": "祖父は今でもコーヒー豆を手でひく。"
   },
   {
     "no": 1378,
     "word": "combine",
     "meaning": "組み合わせる",
     "choices": [
+      "復活させる",
+      "暗示する",
       "組み合わせる",
-      "結びつける",
-      "まとめる",
-      "混ぜる"
+      "教育する"
     ],
-    "sentence": "You can combine study with short breaks.",
-    "translation": "勉強と短い休憩を組み合わせることができる。"
+    "sentence": "Let's combine these two ideas into one plan.",
+    "translation": "この二つの案を一つの計画に組み合わせよう。"
   },
   {
     "no": 1379,
@@ -1019,90 +1019,90 @@ const quizData = [
     "meaning": "重要でない",
     "choices": [
       "重要でない",
-      "軽い",
       "小さな",
-      "副次的な"
+      "巨大な",
+      "本格的な"
     ],
-    "sentence": "The mistake was minor and easy to fix.",
-    "translation": "そのミスは重要でないので簡単に直せた。"
+    "sentence": "We found only minor errors in the report.",
+    "translation": "私たちはその報告書で重要でない誤りしか見つけなかった。"
   },
   {
     "no": 1380,
     "word": "luxury",
     "meaning": "ぜいたく",
     "choices": [
-      "快適さ",
-      "余裕",
-      "高級品",
-      "ぜいたく"
+      "視界",
+      "ぜいたく",
+      "人物紹介",
+      "写真"
     ],
-    "sentence": "For us, eating out every week is a luxury.",
-    "translation": "私たちにとって毎週外食するのはぜいたくだ。"
+    "sentence": "For us, eating out every night is a luxury.",
+    "translation": "私たちにとって、毎晩外食するのはぜいたくだ。"
   },
   {
     "no": 1381,
     "word": "prosperity",
     "meaning": "繁栄",
     "choices": [
+      "収入",
       "繁栄",
-      "成長",
-      "豊かさ",
-      "成功"
+      "余剰",
+      "方法"
     ],
-    "sentence": "The town enjoyed years of prosperity.",
-    "translation": "その町は何年もの繁栄を楽しんだ。"
+    "sentence": "Peace and education can bring prosperity to a country.",
+    "translation": "平和と教育は国に繁栄をもたらすことができる。"
   },
   {
     "no": 1382,
     "word": "mostly",
     "meaning": "主に",
     "choices": [
-      "だいたい",
-      "ほとんど",
+      "簡潔に",
       "主に",
-      "一般に"
+      "ひそかに",
+      "うっかり"
     ],
-    "sentence": "The class is made up mostly of first-year students.",
-    "translation": "そのクラスは主に1年生で構成されている。"
+    "sentence": "The class is mostly made up of first-year students.",
+    "translation": "そのクラスは主に一年生で構成されている。"
   },
   {
     "no": 1383,
     "word": "exceed",
     "meaning": "超える",
     "choices": [
-      "上回る",
-      "達する",
-      "越す",
-      "超える"
+      "支配する",
+      "超える",
+      "思い出させる",
+      "思い出す"
     ],
-    "sentence": "The cost may exceed our budget.",
-    "translation": "費用は予算を超えるかもしれない。"
+    "sentence": "The speed of the car exceeded the limit.",
+    "translation": "その車の速度は制限を超えていた。"
   },
   {
     "no": 1384,
     "word": "inner",
-    "meaning": "内部の",
+    "meaning": "内面の",
     "choices": [
-      "内側の",
-      "内部の",
-      "中心の",
-      "精神の"
+      "内面の",
+      "心からの",
+      "巨大な",
+      "洗練された"
     ],
-    "sentence": "The box has an inner pocket.",
-    "translation": "その箱には内部のポケットがある。"
+    "sentence": "She rarely shows her inner feelings to others.",
+    "translation": "彼女は自分の内面の感情を他人にほとんど見せない。"
   },
   {
     "no": 1385,
     "word": "interior",
-    "meaning": "内部の",
+    "meaning": "内部",
     "choices": [
-      "室内の",
-      "内部の",
-      "国内の",
-      "内側の"
+      "内部",
+      "特徴",
+      "美しさ",
+      "容易さ"
     ],
-    "sentence": "The interior walls were painted white.",
-    "translation": "内部の壁は白く塗られていた。"
+    "sentence": "The guide showed us the interior of the old church.",
+    "translation": "ガイドはその古い教会の内部を私たちに見せてくれた。"
   },
   {
     "no": 1386,
@@ -1110,51 +1110,51 @@ const quizData = [
     "meaning": "主流",
     "choices": [
       "主流",
-      "中心",
-      "一般",
-      "大勢"
+      "修正",
+      "楽しみ",
+      "収入"
     ],
-    "sentence": "Online shopping has become part of the mainstream.",
-    "translation": "オンライン買い物は主流の一部になった。"
+    "sentence": "Her ideas were outside the mainstream at first.",
+    "translation": "彼女の考えは最初、主流の外にあった。"
   },
   {
     "no": 1387,
     "word": "extent",
     "meaning": "程度",
     "choices": [
-      "度合い",
-      "範囲",
       "程度",
-      "規模"
+      "植民地",
+      "人物紹介",
+      "記録"
     ],
-    "sentence": "I did not realize the extent of the damage.",
-    "translation": "私は被害の程度に気づいていなかった。"
+    "sentence": "We still do not know the full extent of the damage.",
+    "translation": "私たちはまだ被害の全体的な程度を知らない。"
   },
   {
     "no": 1388,
     "word": "reward",
     "meaning": "報酬",
     "choices": [
-      "謝礼",
-      "見返り",
-      "賞金",
-      "報酬"
+      "余剰",
+      "収入",
+      "報酬",
+      "写真"
     ],
-    "sentence": "Hard work can bring its own reward.",
-    "translation": "努力はそれ自体が報酬になることがある。"
+    "sentence": "A reward was offered for the missing dog.",
+    "translation": "行方不明の犬に対して報酬が出された。"
   },
   {
     "no": 1389,
     "word": "revenue",
     "meaning": "収入",
     "choices": [
-      "所得",
+      "結果",
       "収入",
-      "売上",
-      "利益"
+      "保護区域",
+      "人物紹介"
     ],
-    "sentence": "Ticket sales are our main source of revenue.",
-    "translation": "チケットの売り上げは私たちの主な収入源だ。"
+    "sentence": "Ticket sales are the theater's main source of revenue.",
+    "translation": "チケット販売はその劇場の主な収入源だ。"
   },
   {
     "no": 1390,
@@ -1162,141 +1162,141 @@ const quizData = [
     "meaning": "余剰",
     "choices": [
       "余剰",
-      "過剰",
-      "残り",
-      "黒字"
+      "修正",
+      "情熱",
+      "自動車"
     ],
-    "sentence": "The factory sold its surplus materials.",
-    "translation": "その工場は余剰の材料を売った。"
+    "sentence": "The farm sold its surplus vegetables at the market.",
+    "translation": "その農場は余った野菜を市場で売った。"
   },
   {
     "no": 1391,
     "word": "deposit",
-    "meaning": "預金",
+    "meaning": "預ける",
     "choices": [
-      "預金",
-      "貯金",
-      "手付金",
-      "口座"
+      "預ける",
+      "接続する",
+      "超える",
+      "監督する"
     ],
-    "sentence": "She made a deposit at the bank this morning.",
-    "translation": "彼女は今朝、銀行に預金をした。"
+    "sentence": "I deposited the money in my bank account yesterday.",
+    "translation": "私は昨日、そのお金を銀行口座に預けた。"
   },
   {
     "no": 1392,
     "word": "personnel",
-    "meaning": "職員",
+    "meaning": "人事部",
     "choices": [
-      "職員",
-      "事務員",
-      "人員",
-      "社員"
+      "記録",
+      "人事部",
+      "方法",
+      "視界"
     ],
-    "sentence": "The hospital needs more medical personnel.",
-    "translation": "その病院はもっと多くの医療職員を必要としている。"
+    "sentence": "Please send your application to the personnel office.",
+    "translation": "応募書類は人事部に送ってください。"
   },
   {
     "no": 1393,
     "word": "officer",
-    "meaning": "公務員",
+    "meaning": "警官",
     "choices": [
       "警官",
-      "役人",
-      "公務員",
-      "職員"
+      "人物紹介",
+      "余剰",
+      "歓迎会"
     ],
-    "sentence": "A city officer answered our questions.",
-    "translation": "市の公務員が私たちの質問に答えた。"
+    "sentence": "A police officer helped the lost child.",
+    "translation": "一人の警官が迷子の子どもを助けた。"
   },
   {
     "no": 1394,
     "word": "eager",
     "meaning": "熱心な",
     "choices": [
-      "意欲的な",
+      "魅力的な",
       "熱心な",
-      "積極的な",
-      "前向きな"
+      "信頼できる",
+      "ありそうにない"
     ],
-    "sentence": "The students were eager to join the discussion.",
-    "translation": "生徒たちはその議論に加わることに熱心だった。"
+    "sentence": "The students were eager to hear the result.",
+    "translation": "生徒たちは結果を聞くのを熱心に待っていた。"
   },
   {
     "no": 1395,
     "word": "willing",
-    "meaning": "する気がある",
+    "meaning": "やる気がある",
     "choices": [
-      "前向きな",
-      "承知の",
-      "する気がある",
-      "乗り気な"
+      "熱心な",
+      "本格的な",
+      "やる気がある",
+      "小さな"
     ],
-    "sentence": "She is willing to help us after school.",
-    "translation": "彼女は放課後に私たちを手伝う気がある。"
+    "sentence": "She is willing to help anyone in trouble.",
+    "translation": "彼女は困っている人ならだれでも助けるやる気がある。"
   },
   {
     "no": 1396,
     "word": "reluctant",
     "meaning": "気が進まない",
     "choices": [
-      "嫌がる",
-      "消極的な",
-      "慎重な",
-      "気が進まない"
+      "精神的な",
+      "気が進まない",
+      "魅力的な",
+      "重要でない"
     ],
-    "sentence": "He was reluctant to speak in front of everyone.",
-    "translation": "彼はみんなの前で話すのに気が進まなかった。"
+    "sentence": "He was reluctant to speak in front of the class.",
+    "translation": "彼はクラスの前で話すのに気が進まなかった。"
   },
   {
     "no": 1397,
     "word": "enthusiasm",
-    "meaning": "熱中",
+    "meaning": "熱意",
     "choices": [
       "熱意",
-      "熱中",
-      "興奮",
-      "関心"
+      "方法",
+      "写真",
+      "うわさ"
     ],
-    "sentence": "Her enthusiasm for science impressed the class.",
-    "translation": "科学への彼女の熱中はクラスに強い印象を与えた。"
+    "sentence": "Her enthusiasm for science encouraged her students.",
+    "translation": "科学に対する彼女の熱意は生徒たちを励ました。"
   },
   {
     "no": 1398,
     "word": "passion",
     "meaning": "情熱",
     "choices": [
-      "愛情",
-      "熱意",
-      "夢中",
-      "情熱"
+      "人物紹介",
+      "情熱",
+      "記録",
+      "自動車"
     ],
-    "sentence": "His passion for music never faded.",
-    "translation": "彼の音楽への情熱は決して薄れなかった。"
+    "sentence": "He has a strong passion for music.",
+    "translation": "彼は音楽に強い情熱を持っている。"
   },
   {
     "no": 1399,
     "word": "ambition",
-    "meaning": "熱望",
+    "meaning": "野心",
     "choices": [
-      "熱望",
-      "目標",
+      "制度",
+      "美しさ",
       "野心",
-      "希望"
+      "警官"
     ],
     "sentence": "Her ambition is to become a doctor.",
-    "translation": "彼女の熱望は医師になることだ。"
+    "translation": "彼女の野心は医者になることだ。"
   },
   {
     "no": 1400,
     "word": "ongoing",
     "meaning": "進行中の",
     "choices": [
-      "継続中の",
       "進行中の",
-      "未完了の",
-      "現在の"
+      "小さな",
+      "精神的な",
+      "ありそうにない"
     ],
-    "sentence": "We are following the ongoing debate closely.",
-    "translation": "私たちは進行中の議論を注意深く追っている。"
+    "sentence": "The city is discussing an ongoing problem with traffic.",
+    "translation": "市は交通に関する進行中の問題を議論している。"
   }
 ];
