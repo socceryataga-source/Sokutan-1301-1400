@@ -1,4 +1,4 @@
-const quizData = [
+window.quizData = [
   {
     "no": 1301,
     "word": "import",

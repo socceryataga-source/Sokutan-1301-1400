@@ -1,6 +1,7 @@
 (() => {
   if (!window.__authOK) return;
-  if (!Array.isArray(window.quizData)) {
+  const dataSource = (typeof quizData !== "undefined") ? quizData : window.quizData;
+  if (!Array.isArray(dataSource)) {
     console.error("quizData not found");
     return;
   }
@@ -69,7 +70,7 @@
 
   function buildList() {
     const { start, end } = normalizeRange();
-    let list = quizData.filter(item => item.no >= start && item.no <= end);
+    let list = dataSource.filter(item => item.no >= start && item.no <= end);
 
     if (mode === "random") {
       list = [...list];
