@@ -1,0 +1,135 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<script>
+(function () {
+  const password = window.prompt("クラスコードを入力してください");
+  if (password !== "hokuto2026") {
+    document.open();
+    document.write(`<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>アクセスできません</title>
+<style>
+  body{
+    margin:0;
+    min-height:100vh;
+    display:grid;
+    place-items:center;
+    background:#f5f7fb;
+    color:#22304a;
+    font-family:-apple-system,BlinkMacSystemFont,"Segoe UI","Hiragino Sans","Yu Gothic",sans-serif;
+  }
+  .box{
+    background:#fff;
+    border:1px solid #d8deea;
+    border-radius:20px;
+    padding:32px 40px;
+    box-shadow:0 16px 40px rgba(31,52,89,.08);
+    text-align:center;
+  }
+  h2{margin:0;font-size:1.8rem;}
+</style>
+</head>
+<body>
+  <div class="box"><h2>アクセスできません</h2></div>
+</body>
+</html>`);
+    document.close();
+    window.stop();
+    throw new Error("Access denied");
+  }
+})();
+</script>
+
+<title>頻出語句クイズ（No.1301-1400）</title>
+<link rel="stylesheet" href="styles.css">
+</head>
+<body>
+<div class="page">
+  <section class="screen" id="menuScreen">
+    <div class="card hero">
+      <p class="eyebrow">Vocabulary Quiz</p>
+      <h1>頻出語句クイズ（No.1301-1400）</h1>
+      <p class="lead">B列通し番号1301–1400の範囲から出題します。</p>
+
+      <div class="grid">
+        <label><span>開始番号</span><input type="number" id="startInput" min="1301" max="1400" value="1301"></label>
+        <label><span>終了番号</span><input type="number" id="endInput" min="1301" max="1400" value="1400"></label>
+      </div>
+
+      <div class="modeWrap">
+        <span class="modeLabel">出題順</span>
+        <div class="toggleRow">
+          <button type="button" class="modeBtn active" data-mode="order">順番通り</button>
+          <button type="button" class="modeBtn" data-mode="random">ランダム</button>
+        </div>
+      </div>
+
+      <button class="primaryBtn" id="startBtn">スタート</button>
+    </div>
+  </section>
+
+  <section class="screen hidden" id="quizScreen">
+    <div class="card quizCard">
+      <div class="topbar">
+        <div id="progressText">1 / 100</div>
+        <div id="scoreText">Score: 0</div>
+      </div>
+      <div class="progressTrack" aria-hidden="true">
+        <div class="progressBar" id="progressBar"></div>
+      </div>
+
+      <p class="questionNo" id="questionNo">No.1301</p>
+
+      <div class="wordRow">
+        <h2 id="wordText">word</h2>
+        <button class="iconBtn" id="speakBtn" type="button" aria-label="発音を再生">🔊</button>
+      </div>
+
+      <div id="choices" class="choices"></div>
+
+      <div id="feedback" class="feedback hidden"></div>
+
+      <div class="navRow">
+        <button type="button" class="subBtn" id="prevBtn">前へ</button>
+        <button type="button" class="subBtn" id="nextBtn">次へ</button>
+      </div>
+
+      <div class="menuRow">
+        <button type="button" class="ghostBtn" id="restartBtn">同条件でリスタート</button>
+        <button type="button" class="ghostBtn" id="retryRangeBtn">別範囲でやり直し</button>
+        <button type="button" class="ghostBtn" id="backMenuBtn">メニューに戻る</button>
+      </div>
+    </div>
+  </section>
+
+  <section class="screen hidden" id="resultScreen">
+    <div class="card hero">
+      <p class="eyebrow">Finished</p>
+      <h2>全問終了</h2>
+      <p class="resultScore" id="finalScore">0 / 0</p>
+      <p class="resultRate" id="finalRate">正答率 0%</p>
+      <div class="menuRow center">
+        <button type="button" class="primaryBtn" id="restartFromResultBtn">同条件でリスタート</button>
+        <button type="button" class="ghostBtn" id="retryRangeFromResultBtn">別範囲でやり直し</button>
+        <button type="button" class="ghostBtn" id="backMenuFromResultBtn">メニューに戻る</button>
+      </div>
+    </div>
+  </section>
+
+  <footer class="footer">
+    本教材は授業内利用を目的とした補助教材です。<br>
+    市販教材を参考にしていますが、例文・表現は独自に作成しています。
+  </footer>
+</div>
+
+<script src="data.js"></script>
+<script src="script.js"></script>
+</body>
+</html>
