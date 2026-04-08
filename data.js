@@ -31,7 +31,7 @@ window.quizData = [
     "meaning": "乗り物",
     "choices": [
       "乗り物",
-      "自動車",
+      "回路",
       "容易さ",
       "審査員団"
     ],
@@ -178,8 +178,8 @@ window.quizData = [
       "輸出する",
       "支配する"
     ],
-    "sentence": "Can you wire this speaker to the computer?",
-    "translation": "このスピーカーをコンピューターに接続できますか。"
+    "sentence": "He wired the new lighting system into the ceiling.",
+    "translation": "彼は新しい照明システムを天井に配線した。"
   },
   {
     "no": 1315,
@@ -1198,15 +1198,15 @@ window.quizData = [
   {
     "no": 1393,
     "word": "officer",
-    "meaning": "警官",
+    "meaning": "公務員",
     "choices": [
-      "警官",
+      "公務員",
       "人物紹介",
       "余剰",
       "歓迎会"
     ],
-    "sentence": "A police officer helped the lost child.",
-    "translation": "一人の警官が迷子の子どもを助けた。"
+    "sentence": "She is a local government officer.",
+    "translation": "彼女は地方公務員だ"
   },
   {
     "no": 1394,
