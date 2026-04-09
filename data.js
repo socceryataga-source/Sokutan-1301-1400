@@ -17,7 +17,7 @@ window.quizData = [
     "word": "export",
     "meaning": "輸出する",
     "choices": [
-      "和らげる",
+      "期待する",
       "暗示する",
       "輸出する",
       "観察する"
